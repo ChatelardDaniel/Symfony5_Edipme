@@ -1,0 +1,3 @@
+[submodule "Symfony5_Edipme"]
+	path = Symfony5_Edipme
+	url = https://github.com/ChatelardDaniel/Symfony5_Edipme.git
